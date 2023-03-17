@@ -4,7 +4,6 @@
 
 /**
  * main- assigns a random number to int n every time
- *  
  * Return: Always 0 (success)
  */
 

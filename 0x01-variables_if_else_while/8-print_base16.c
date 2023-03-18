@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - prints all numbers 
- * followed by a new line 
- * Return: Always 0 (success)
+ * main - Entry point
+ * Description: prints all single digit numbers of base 10
+ * starting from 0, followed by a new line.
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -19,5 +20,5 @@ for (ch = 'a'; ch <= 'f'; ch++)
 putchar(ch);
 }
 putchar('\n');
-return(0);
+return (0);
 }

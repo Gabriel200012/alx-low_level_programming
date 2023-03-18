@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints lowercase alphabets reverse
- * followed ny a new line 
+ * main - prints lowercase alphabets reverse 
  * Return: Always 0 (success)
  */
 
@@ -14,5 +13,5 @@ for (ch = 'z'; ch >= 'a'; ch--)
 putchar(ch);
 }
 putchar('\n');
-return(0);
+return (0);
 }

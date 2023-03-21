@@ -1,9 +1,11 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
- * main: to write a function that prints all natural numbers from n to 98, followed by a new line.
- * Return:0 or 1
- */
+ * print_times_table - prints time table of n
+ *
+ * @n: takes number input
+*/
 
 void print_to_98(int n)
 {

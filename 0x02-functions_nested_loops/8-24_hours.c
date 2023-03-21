@@ -2,8 +2,7 @@
 
 /**
  * main: Entry point
- * Description: prints every minutes of the day
- * @jack_bauer: return void
+ * @jack_bauer: prints every minutes of the day
  * Return:void
  */
 

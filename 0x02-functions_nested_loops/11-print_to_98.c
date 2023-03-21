@@ -3,7 +3,7 @@
 
 /**
  * print_times_table - prints time table of n
- *
+ * print_to_98 - the last digit should be 98
  * @n: takes number input
 */
 

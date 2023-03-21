@@ -1,10 +1,12 @@
 #include "main.h"
 /**
- * main: to write a function that adds two integers and returns the result.
- * @a: int type number
- * @b: int type number
- * Return:0
- */
+ * add - add two integers
+ *
+ * @a: first input
+ * @b: second input
+ *
+ * Return: sum of a & b
+*/
 
 int add(int a, int b)
 {

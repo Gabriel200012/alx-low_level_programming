@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * main : write a function that prints the signs of numbers,
+ * Description: to print the signs of number
+ * print_sign - check numers
+ * @n : number to check
  * Return:0 or 1
  */
 

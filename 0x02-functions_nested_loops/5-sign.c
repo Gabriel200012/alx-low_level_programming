@@ -2,6 +2,7 @@
 
 /**
  * print_sign: to check number
+ * Description: to write a function that prints the sign of a number.
  * @n : number to check
  * Return:0 or 1
  */

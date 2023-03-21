@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- *main: Entry point
- *jack_bauer: prints every minute of the day of Jack Bauer
- *Return:void
+ * main: Entry point
+ * Description: prints every minutes of the day
+ * @jack_bauer: return void
+ * Return:void
  */
 
 void jack_bauer(void)

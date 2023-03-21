@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * print_times_table - prints time table of n
- * print_to_98 - the last digit should be 98
- * @n: takes number input
-*/
+ * print_to_98 - print to 98
+ * @n : number to start from
+ * Return:0 or 1
+ */
 
 void print_to_98(int n)
 {

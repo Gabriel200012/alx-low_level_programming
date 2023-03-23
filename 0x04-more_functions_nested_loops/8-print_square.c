@@ -3,7 +3,6 @@
 /**
  * print_square - draws a square
  * @size: length and width of square
- *
  * Return: void
  */
 

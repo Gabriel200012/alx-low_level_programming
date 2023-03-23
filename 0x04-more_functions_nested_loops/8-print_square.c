@@ -3,6 +3,7 @@
 /**
  * print_square - check for a digit
  * @n : number of _ to be printed
+ * @i : number of # printed
  * Return:void
  */
 

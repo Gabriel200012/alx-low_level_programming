@@ -1,13 +1,12 @@
 #include <stdio.h>
+
 /**
  * main - check the code for Holberton School students.
- *
  * Return: void.
  */
 
 int main(void)
 {
-
 int i = 1;
 while (i <= 100)
 {
@@ -35,5 +34,4 @@ i++;
 }
 putchar('\n');
 return (0);
- 
 }

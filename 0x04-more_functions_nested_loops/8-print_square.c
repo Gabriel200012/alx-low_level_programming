@@ -6,7 +6,6 @@
  * Return:void
  */
 
-
 void print_square(int n)
 { 
 int i = 0, ii;

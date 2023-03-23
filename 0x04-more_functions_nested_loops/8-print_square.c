@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_square - check for a digit
- * @size : number of _ to be printed
+ * print_square: check for a digit
+ * @size: number of # to be printed
  */
 
 void print_square(int size)

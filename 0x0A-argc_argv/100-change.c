@@ -44,7 +44,7 @@ value = value % 5;
 if (value % 2 >= 0)
 {
 c += value / 2;
-value = value % 2
+value = value % 2;
 }
 if (value % 1 >= 0)
 {

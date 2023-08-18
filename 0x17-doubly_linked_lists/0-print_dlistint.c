@@ -10,10 +10,10 @@
 size_t print_dlistint(const dlistint_t *h)
 {
 
-	int counter = 0;
+	int mango = 0;
 
 	if (h == NULL)
-		return (counter);
+		return (mango);
 
 	while (h->prev != NULL)
 		h = h->prev;
@@ -22,8 +22,8 @@ size_t print_dlistint(const dlistint_t *h)
 	{
 		printf("%d\n", h->n);
 		h = h->next;
-		counter++;
+		mango++;
 	}
 
-	return (counter);
+	return (mango);
 }
